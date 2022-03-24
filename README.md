@@ -1,2 +1,2 @@
-# plantDiscovery
+# solutions
 solve
